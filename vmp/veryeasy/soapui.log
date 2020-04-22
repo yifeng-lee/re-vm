@@ -1,0 +1,5 @@
+2020-04-19 21:39:48,066 WARN  [DefaultSoapUICore] Missing folder [C:\Users\feng\ext] for external libraries
+2020-04-19 21:39:48,347 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\feng\soapui-settings.xml]
+2020-04-19 21:39:48,800 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\feng\intellij-soapui-workspace.xml]
+2020-04-19 21:39:59,263 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\feng\intellij-soapui-workspace.xml]
+2020-04-19 21:39:59,278 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\feng\soapui-settings.xml]
